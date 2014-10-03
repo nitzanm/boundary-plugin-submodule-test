@@ -1,0 +1,3 @@
+[submodule "aws_boundary_plugin"]
+	path = aws_boundary_plugin
+	url = https://github.com/nitzanm/boundary-plugin-aws-rds-python.git

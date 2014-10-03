@@ -1,0 +1,6 @@
+{
+    "description": "Test for Git submodules",
+    "command": "python -u dummy.py",
+    "metrics" : ["AWS_ELB_HEALTHY_HOST_COUNT"],
+}
+
